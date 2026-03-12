@@ -61,5 +61,3 @@ This improves:
 ### User Folder Created on Server
 ![user-folder.png](user-folder.png)
 
-### Client Test
-![client-test.png](client-test.png)
