@@ -53,13 +53,13 @@ This improves:
 ## Screenshots
 
 ### Shared Folder Configuration
-![Shared Folder](screenshots/shared-folder.png)
+![shared-folder.png](shared-folder.png)
 
 ### Folder Redirection Policy
-![GPO](screenshots/folder-redirection-policy.png)
+![folder-redirection-policy.png](folder-redirection-policy.png)
 
 ### User Folder Created on Server
-![User Folder](screenshots/user-folder.png)
+![user-folder.png](user-folder.png)
 
 ### Client Test
-![Client Test](screenshots/client-test.png)
+![client-test.png](client-test.png)
